@@ -1,0 +1,40 @@
+/* pages/list/list.wxss */
+.line{
+ width: 100%;
+ height: 1px;
+ margin-top: 2px;
+ background-color: gainsboro;
+}
+.id{
+  background: #3d85c6;
+  font-size: 40pt;
+  color: white;
+  display: flex;
+  justify-content: center;
+  width:140rpx;
+}
+.name{
+  display: flex;
+  font-weight: bold;
+  margin-left: 5px;
+  font-size: 13pt;
+}
+.title{
+  color:dimgray;
+  display: flex;
+  font-size: 10pt;
+  margin-left: 5px;
+}
+.name-cheat{
+  display: flex;
+  font-weight: bold;
+  margin-left: 5px;
+  font-size: 13pt;
+  color: beige;
+}
+.title-cheat{
+  color: cornsilk;
+  display: flex;
+  font-size: 10pt;
+  margin-left: 5px;
+}

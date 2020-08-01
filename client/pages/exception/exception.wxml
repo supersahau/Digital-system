@@ -1,0 +1,24 @@
+<!--pages/exception.wxml-->
+<view class="containermap">
+  <ec-canvas id="mychart-dom-gauge" canvas-id="mychart-gauge" ec="{{ ec }}"></ec-canvas>
+  <view class='another'>
+  <scroll-view scroll-y style="height:100%">
+    <view class="table">
+      <view class="tr">
+        <view class="th">同义词差异度：{{symsim}}</view>
+      </view>
+      <view class="tr">
+        <view class="th th1">类名</view>
+        <view class="th th2">区别度</view>
+        <view class="th th3">词语差异</view>
+      </view>
+      <view class="tr" wx:for="{{contentlist}}" wx:key='symtable'>
+          <view class="td td1">{{item.class}}</view>
+          <view class="td td2">{{item.pt}}</view>
+          <view class="td td3">{{item.diff}}</view>
+      </view>
+    </view>
+  </scroll-view>
+  </view>
+</view>
+

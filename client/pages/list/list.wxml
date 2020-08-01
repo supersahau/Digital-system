@@ -1,0 +1,30 @@
+<!--pages/list/list.wxml-->
+<block wx:for="{{articlelist}}" wx:key="articlelist-cheat">
+<navigator wx:if="{{item.ifcopy === true}}" url="article?url={{item.url}}" hover-class="navigator-hover">
+    <view style="display:flex;flex-direction:row;background-color:#db3312;">
+    <view style="positon:relative;">
+      <image mode="aspectFit" src="http://111.231.71.74:8888/{{item.imgurl}}" style="height:140rpx;width:140rpx;"/>
+    </view>
+      <view style="width:600rpx;height:130rpx;">
+        <text class="name-cheat">{{item.accountname}}</text>
+        <text class="title-cheat">{{item.title}}</text>
+      </view>
+    </view>
+    <view class="line"/>
+</navigator>
+</block>
+
+<block wx:for="{{articlelist}}" wx:key="articlelist-recom">
+<navigator wx:if="{{item.ifcopy === false}}" url="article?url={{item.url}}" hover-class="navigator-hover">
+    <view style="display:flex;flex-direction:row;">
+    <view style="positon:relative;">
+      <image mode="aspectFit" src="http://111.231.71.74:8888/{{item.imgurl}}" style="height:140rpx;width:140rpx;"/>
+    </view>
+      <view style="width:600rpx;height:130rpx;">
+        <text class="name">{{item.accountname}}</text>
+        <text class="title">{{item.title}}</text>
+      </view>
+    </view>
+    <view class="line"/>
+</navigator>
+</block>

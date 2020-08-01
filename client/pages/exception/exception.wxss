@@ -1,0 +1,68 @@
+/* pages/exception.wxss */
+.containermap {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+} 
+#mychart-dom-gauge {
+  position: absolute;
+  top: 0;
+  bottom: 50%;
+  left: 0;
+  right: 0;
+}
+.another{
+  position: absolute;
+  top: 50%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.table{
+  border:1px solid #dadada;
+  border-right:0;
+  border-bottom: 0;
+  width: 98%;
+  margin-left: 1%;
+}
+.tr{
+  width:100%;
+  display: flex;
+  justify-content: space-between;
+}
+.th,.td{
+  padding: 10px;
+  border-bottom: 1px solid #dadada;
+  border-right: 1px solid #dadada;
+  text-align: center;
+  width: 100%;
+}
+.th1,.th2{
+  width: 25%;
+}
+.td1,.td2{
+  width: 25%;
+  font-size: 30rpx;
+}
+.td3{
+  font-size: 20rpx;
+}
+.th{
+  font-weight: 800;
+  background-color: #b66242;
+  font-size: 28rpx;
+  color: #330e0e;
+}
+.td{
+  color: #ec9480;
+}
+
+

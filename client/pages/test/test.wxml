@@ -1,0 +1,24 @@
+<!--pages/test/test.wxml-->
+<view class="itemView">公众号文章URL：</view>
+<view class="section">
+    <input class="input" name="URL " placeholder="请输入文章URL"
+    bindinput ="URLInput"/>
+</view>
+
+<view class="buttonview">
+<button type="primary" bindtap="uploadurl" style="width:500rpx;height:80rpx;font-size:35rpx">上传URL</button>
+</view>
+
+<view class="buttonview">
+<button type="primary" bindtap="recommend" style="width:500rpx;height:80rpx;font-size:35rpx">推荐与抄袭检测</button>
+</view>
+
+<view class="itemView">公众号名称：</view>
+<view class="section">
+    <input class="input" name="Account" placeholder="请输入公众号名称"
+    bindinput ="AccountInput"/>
+</view>
+
+<view class="buttonview">
+<button type="primary" bindtap="Exception" style="width:500rpx;height:80rpx;font-size:35rpx">异常检测</button>
+</view>

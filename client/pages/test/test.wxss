@@ -1,0 +1,21 @@
+/* pages/test/test.wxss */
+.itemView{
+   margin-top: 10px;
+}
+.section{
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 30px;
+  border: 1px solid green;
+  border-radius: 10px;
+}
+.input{
+ padding-left: 8px;
+ margin-top:5px;
+ height: 10px; 
+}
+.buttonview{
+  margin-top: 10px;
+  justify-content: center;
+  display: flex
+}

@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/test/test",
+    "pages/algorithm/algorithm",
+    "pages/list/list",
+    "pages/list/article",
+    "pages/exception/exception",
+    "pages/disp/disp"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "数据指纹",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/test/test",
+        "text": "测试页面"
+      },
+      {
+        "pagePath": "pages/algorithm/algorithm",
+        "text": "算法示意"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "推荐与抄袭检测"
+      },
+      {
+        "pagePath": "pages/exception/exception",
+        "text": "异常检测"
+      }
+    ]
+  }
+}

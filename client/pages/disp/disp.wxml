@@ -1,0 +1,4 @@
+<!--pages/disp/disp.wxml-->
+<view style="position: absolute;top: 10%;">
+<image mode="aspectFit" src="http://111.231.71.74:8888/{{ imgurl }}" />
+</view>
