@@ -20,3 +20,5 @@
 ## tips：后端代码待国赛结束后进行更新
 
 如有相关问题咨询，请联系Email:supersahau@vip.qq.com
+
+Copyright©supersahau
