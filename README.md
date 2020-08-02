@@ -18,6 +18,5 @@
 2020年中国高校计算机大赛-网络技术挑战赛华东赛区（待定）
 
 2020年中国大学生计算机设计大赛国赛（待定）、安徽省分赛二等奖、校赛三等奖
-### tips：后端代码待国赛结束后进行更新
-如有相关问题咨询，请联系Email:supersahau@vip.qq.com
+## 如有相关问题咨询，请联系Email:supersahau@vip.qq.com
 ### Copyright©supersahau
