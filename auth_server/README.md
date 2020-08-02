@@ -1,5 +1,5 @@
 ### Install:
-1. git clone https://github.com/phyank/auth_server
+1. git clone https://github.com/supersahau/Digital-system/tree/master/auth_server
 2. sudo ./preinstall.sh
 ### Start:
 sudo python3 server.py
