@@ -1,5 +1,5 @@
 ### Honor
-The second prize of national College Students "Internet +" Innovation Competition-the 7th "Discovery Cup" National College Students Internet Software Design Grand Prix in artificial intelligence competition in East China Division in 2019 
+National College Students "Internet +" Innovation Competition-the 7th "Discovery Cup" National College Students Internet Software Design Grand Prix in artificial intelligence competition The second prize in East China Division in 2019 
 
 The second prize of China Collegiate Computing Contest - WeChat applets development competition in east China division in 2020
 
