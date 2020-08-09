@@ -1,31 +1,32 @@
-### 所获荣誉
-2019年全国大学生“互联网+”创新大赛暨第七届“发现杯”全国大学生互联网软件设计大奖赛人工智能赛项华东赛区二等奖
+### Honor
+The second prize of artificial intelligence competition in East China Division in 2019 national College Students "Internet +" Innovation Competition and the 7th "Discovery Cup" National College Students Internet Software Design Grand Prix
 
-2020年中国高校计算机大赛-微信小程序开发大赛华东赛区二等奖
+The second prize of China Collegiate Computing Contest - WeChat applets development competition in east China division in 2020
 
-2020年中国高校计算机大赛-网络技术挑战赛华东赛区三等奖
+The third prize of China Collegiate Computing Contest - Network Technology Challenge in east China division in 2020
 
-2020年中国大学生计算机设计大赛国赛（待定）、安徽省分赛二等奖、校赛三等奖
+Chinese College Students Computer Design Competition in 2020 (to be determined), the second prize of Anhui Province, the third prize of university Competition
 
-软件著作权（在申请ing）
+Software Copyright (pending application)
 
-### 比赛相关网站
+### Competition-related websites
 
-中国大学生计算机设计大赛国赛地址：http://jsjds.ruc.edu.cn
+Chinese College Students computer Design Competition official website：http://jsjds.ruc.edu.cn
 
-中国大学生计算机设计大赛安徽省分赛：http://jsjds.ahu.edu.cn
+Chinese college Students Computer Design competition anhui sub-competition official website：http://jsjds.ahu.edu.cn
 
-全国大学生“互联网+”创新大赛暨第七届“发现杯”全国大学生互联网软件设计大奖赛官网:http://www.dajiangsai.org/
+National College Students "Internet +" Innovation Competition and the 7th "Discovery Cup" National College Students Internet Software Design Grand Prix official website:http://www.dajiangsai.org/
 
-中国高校计算机大赛-微信小程序大赛官网:https://developers.weixin.qq.com/community/competition
+China Collegiate Computing Contest - WeChat applets development competition official website:https://developers.weixin.qq.com/community/competition
 
-中国高校计算机大赛-网络技术挑战赛官网:http://net.c4best.cn/
+hina Collegiate Computing Contest - Network Technology Challenge official website:http://net.c4best.cn/
 
-### 编程语言
-前端JavaScript，后端python
+### Languages
+Front-end JavaScript, back-end Python
 
-#### tips：程序源码进行了多次迭代更新，每一次比赛都有不同程度上创新与更新。作品迭代次数远高于比赛参赛次数！！
-####       目前上传的程序源码，仅为当前最新版。以后如有时间，将会继续进行迭代创新。所有产品，创新二字尤为重要！
-####       将程序开源到GitHub，仅供大家参考学习！！！当然，我鼓励大家进行底层源码创新，技术更新迭代！！！！
-## 如有相关问题咨询，请联系Email:supersahau@vip.qq.com
+#### tip1：The program source code has been updated for many iterations, each competition has different degrees of innovation and update. The number of iterations is much higher than the number of entries!!
+#### tip2：The current uploaded program source code, only for the current latest version. If there is time, we will continue to iterate!!
+#### tip3：Open source the program to GitHub, for your reference and study only!!
+#### tip4：We encourage you to do the underlying source code innovation based on this project. What you need to know is that after innovation, it is already a new project, and the product after innovation will no longer be relevant to me.
+## If you have any questions, please contact Email:supersahau@vip.qq.com
 ### Copyright©supersahau
