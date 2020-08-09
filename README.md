@@ -1,5 +1,5 @@
 ### Honor
-National College Students "Internet +" Innovation Competition-the 7th "Discovery Cup" National College Students Internet Software Design Grand Prix in artificial intelligence competition The second prize in East China Division in 2019 
+The second prize of National College Students "Internet +" Innovation Competition-the 7th "Discovery Cup" National College Students Internet Software Design Grand Prix in artificial intelligence competition in East China Division in 2019 
 
 The second prize of China Collegiate Computing Contest - WeChat applets development competition in east China division in 2020
 
@@ -25,7 +25,7 @@ China Collegiate Computing Contest - Network Technology Challenge official websi
 Front-end JavaScript, back-end Python
 
 #### tip1：The program source code has been updated for many iterations, each competition has different degrees of innovation and update. The number of iterations is much higher than the number of entries!!
-#### tip2：The current uploaded program source code, only for the current latest version. If there is time, we will continue to iterate!!
+#### tip2：The current uploaded program source code, only for the current latest version. If there is time, I will continue to iterate!!
 #### tip3：Open source the program to GitHub, for your reference and study only!!
 #### tip4：We encourage you to do the underlying source code innovation based on this project. What you need to know is that after innovation, it is already a new project, and the product after innovation will no longer be relevant to me.
 ## If you have any questions, please contact Email:supersahau@vip.qq.com
