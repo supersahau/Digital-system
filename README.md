@@ -5,13 +5,11 @@ The second prize of China Collegiate Computing Contest - WeChat applets developm
 
 The third prize of China Collegiate Computing Contest - Network Technology Challenge competition in east China division in 2020
 
-Chinese College Students Computer Design Competition in 2020 (to be determined), the second prize of Anhui Province, the third prize of university Competition
+Chinese College Students Computer Design Competition in 2020 ， the second prize of Anhui Province, the third prize of university Competition
 
 Software Copyright (pending application)
 
 ### Competition-related websites
-
-Chinese College Students computer Design Competition official website：http://jsjds.ruc.edu.cn
 
 Chinese college Students Computer Design competition anhui sub-competition official website：http://jsjds.ahu.edu.cn
 
